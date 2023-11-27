@@ -1,1 +1,4 @@
 # TiendaXYZ
+En el presente proyecto se tuvo como objetivo principal la implementación de una base de datos distribuida. Las bases de datos distribuidas permiten a los usuarios locales gestionar y acceder a los datos de las bases de datos locales, al tiempo que ofrecen algún tipo de gestión global de los datos que proporciona a los usuarios globales una visión global de los mismos.
+## Descripcion
+La tienda por electrodomésticos XYZ requiere un sistema de base de datos para administrar la información de sus 4 distintas sucursales en Arequipa las cuales se encuentran localizadas en diferentes partes de la ciudad. De cada sucursal se requiere saber cuántas facturas realizan al día, los cortes de cada turno de los cajeros, los clientes registrados, los vales a los empleados, gastos que tiene cada una de las sucursales, reserva de equipos (con manejo de concurrencia) y la disponibilidad de los productos que estos ofrecen a sus clientes.
